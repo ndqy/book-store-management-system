@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule "index.html" "index.php"
+RewriteRule "BookList.html" "BookList.php"
+RewriteRule "CategoryList.html" "CategoryList.php"
+RewriteRule "UserList.html" "UserList.php"
