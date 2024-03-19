@@ -1,16 +1,16 @@
 <!-- ABOUT THE PROJECT -->
 ## Chức năng
 Phía người quản trị:
--* Quản lý người dùng: Thêm, sửa, xóa, tìm kiếm, khôi phục
--* Quản lý sách: Thêm, sửa, xóa, tìm kiếm
--* Quản lý danh mục sách: Thêm, sửa, xóa, tìm kiếm, khôi phục
--* Quản lý đơn hàng: Thêm, sửa, xóa, tìm kiếm
--* Ghi lịch sử làm việc
+* Quản lý người dùng: Thêm, sửa, xóa, tìm kiếm, khôi phục
+* Quản lý sách: Thêm, sửa, xóa, tìm kiếm
+* Quản lý danh mục sách: Thêm, sửa, xóa, tìm kiếm, khôi phục
+* Quản lý đơn hàng: Thêm, sửa, xóa, tìm kiếm
+* Ghi lịch sử làm việc
 
 Phía người dùng:
--* Thêm đơn hàng
--* Tìm kiếm sách
--* Đặt hàng
+* Thêm đơn hàng
+* Tìm kiếm sách
+* Đặt hàng
 
 
 ### Hình ảnh minh họa
@@ -57,4 +57,4 @@ Phía người dùng:
 
 <!-- CONTACT -->
 ## Liên hệ
-Your Name - Đình Quý - ndqyp1@gmail.com
+Đình Quý - ndqyp1@gmail.com
